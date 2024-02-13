@@ -1,0 +1,4 @@
+class: __main__
+models: {0: model-ensemble-0.hdf5, 1: model-ensemble-1.hdf5, 2: model-ensemble-2.hdf5,
+  3: model-ensemble-3.hdf5, 4: model-ensemble-4.hdf5, 5: model-ensemble-5.hdf5, 6: model-ensemble-6.hdf5,
+  7: model-ensemble-7.hdf5, 8: model-ensemble-8.hdf5, 9: model-ensemble-9.hdf5}
